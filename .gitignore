@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Pyinstaller remnants
+*.spec
+src/dist
+src/build
+src/__pycache__
